@@ -1,0 +1,15 @@
+header {
+  width: 100%;
+  min-height: 625px;
+}
+
+.wave {
+  position: relative;
+  padding-top: 5rem;
+  background: linear-gradient(
+    61deg,
+    rgba(189, 162, 244, 1) 0%,
+    rgba(214, 202, 226, 1) 12%,
+    rgba(239, 242, 207, 1) 100%
+  );
+}
